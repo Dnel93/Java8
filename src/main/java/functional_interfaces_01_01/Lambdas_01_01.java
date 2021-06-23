@@ -1,3 +1,5 @@
+package functional_interfaces_01_01;
+
 import java.util.Locale;
 import java.util.function.*;
 
