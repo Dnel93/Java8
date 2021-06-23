@@ -2,7 +2,7 @@ package lambdas_01_02;
 
 import java.util.function.BiFunction;
 
-public class LambdaEventHandler {
+public class Lambdas_01_02 {
     public static void main(String[] args) {
         // Anonymous Inner Class: Runnable
         Runnable r1 = new Runnable() {
