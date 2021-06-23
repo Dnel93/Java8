@@ -1,6 +1,8 @@
 package lambdas_01_02;
 
+import java.util.Arrays;
 import java.util.function.BiFunction;
+import java.util.function.Consumer;
 
 public class Lambdas_01_02 {
     public static void main(String[] args) {
@@ -24,5 +26,19 @@ public class Lambdas_01_02 {
         String sentence = concat.apply("Today is ", "a great day");
         System.out.println(sentence);
 
+        // example of the Consumer functional interface
+        Consumer<String> hello = name -> System.out.println("Hello, " + name);
+        for(String name: Arrays.asList("Duke","Mickey","Miney")) {
+            hello.accept(name);
+        }
+
+        // Example of passing one value
+        GreetingFunction greeting = message -> System.out.println("Java Programming " + message);
+        greeting.sayMessage("Rocks with lambda expressions");
+    }
+
+    @FunctionalInterface
+    interface GreetingFunction {
+        void sayMessage(String message);
     }
 }
