@@ -4,3 +4,5 @@ lambdas_01_02/Lambdas_01_02.java
  lambdas_01_02.Lambdas_01_02$GreetingFunction
 functional_interfaces_01_01/Lambdas_01_01.java
  functional_interfaces_01_01.Lambdas_01_01
+lambdas_01_03/Lambdas_01_03.java
+ lambdas_01_03.Lambdas_01_03
