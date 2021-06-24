@@ -17,3 +17,5 @@ lambdas_02_01/Lambdas_02_01.java
  lambdas_02_01.Lambdas_02_01$1
 lambdas_02_02/Lambdas_02_02.java
  lambdas_02_02.Lambdas_02_02
+lambdas_02_03/Lambdas_02_03.java
+ lambdas_02_03.Lambdas_02_03
