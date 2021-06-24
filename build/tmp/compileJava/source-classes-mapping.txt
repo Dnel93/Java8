@@ -10,3 +10,10 @@ lambdas_01_04/Calculate.java
  lambdas_01_04.Calculate
 lambdas_01_04/Lambdas_01_04.java
  lambdas_01_04.Lambdas_01_04
+lambdas_02_01/Book.java
+ lambdas_02_01.Book
+lambdas_02_01/Lambdas_02_01.java
+ lambdas_02_01.Lambdas_02_01
+ lambdas_02_01.Lambdas_02_01$1
+lambdas_02_02/Lambdas_02_02.java
+ lambdas_02_02.Lambdas_02_02
